@@ -1,0 +1,4 @@
+Download sox-14.4.2-win32
+After installing, transfer DLL Files: 
+                                    libmad-0.dll & libmp3lame-0.dll to its Directory
+Put it on Path after.
